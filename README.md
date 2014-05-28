@@ -12,4 +12,4 @@ https://pages.github.com/
 
 deploy url
 --------------
-https://k0ta.github.io/
+http://k0ta.github.io/
